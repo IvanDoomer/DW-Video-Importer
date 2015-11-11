@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: DW Video Importer
-Plugin URI:
+Plugin URI: http://www.ti.blog.br/plugins/dw-video-importer/
 Description: Automatically imports videos from YouTube and Vimeo accounts
 Version: 1.2
 License: GPL2
