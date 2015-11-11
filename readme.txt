@@ -5,7 +5,7 @@ Tags: videos, automatic, import, importer, youtube, vimeo
 Requires at least: 3.3
 Tested up to: 4.3.1
 Stable tag: 1.2
-License: GPLv2 or later
+License: GPL2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Save time and hassle by automatically importing videos from your favorite sources on YouTube and Vimeo directly into your WordPress blog.
