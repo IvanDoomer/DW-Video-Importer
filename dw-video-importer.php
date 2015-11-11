@@ -3,10 +3,22 @@
 Plugin Name: DW Video Importer
 Plugin URI:
 Description: Automatically imports videos from YouTube and Vimeo accounts
-Version: 1.6.2
-Author: Refactored Co.
-Author URI: https://refactored.co
+Version: 1.2
 License: GPL2
+Author: Ivan Carlos
+Author URI: http://www.ti.blog.br
+
+*/
+
+/*
+Plugin Name: DW Keys Giveaway
+Plugin URI: http://www.ti.blog.br/plugins/dw-keys giveaway/
+Description: Do you have some keys for a software or videogame and want to give them to your users? This plugin allows you to do just that.
+Version: 1.2
+License: GPL
+Tags: beta keys giveaway, keys giveaway, giveaway, wp keys giveaway
+Author: Ivan Carlos
+Author URI: http://www.ti.blog.br
 */
 
 // Define
