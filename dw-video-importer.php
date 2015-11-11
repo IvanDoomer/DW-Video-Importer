@@ -6,7 +6,7 @@ Description: Automatically imports videos from YouTube and Vimeo accounts
 Version: 1.2
 License: GPL2
 Tags: videos, automatic, import, importer, youtube, vimeo
-Author: Ivan Carlos
+Author: IvanDoomer
 Author URI: http://www.ti.blog.br
 */
 
