@@ -183,13 +183,12 @@ class Refactored_YouTube_Importer extends Refactored_Video_Importer_Provider {
 				if ( !isset( $video->description ) ) continue;
 				$tags = array();
 				$date = date( 'Y-m-d H:i:s', strtotime( $video->publishedAt ) );
-				$datecomfuso = date('Y-m-d H:i:s', strtotime($date.'+0 hours'));
 				$result[] = array(
 					'title'       => $video->title,
 					'id'          => $video->resourceId->videoId,
 					'url'         => '<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/' . $video->resourceId->videoId . '\" frameborder=\"0\" allowfullscreen></iframe>',
 					'description' => $video->description,
-					'date'        => $datecomfuso,
+					'date'        => $date,
 					'tags'        => $tags,
 					'raw_data'    => self::object_to_array( $video )
 				);
